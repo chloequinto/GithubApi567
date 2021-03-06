@@ -2,6 +2,7 @@ language: python
 python:
  - "3.5"
 
-# command to run tests
+before_install: 
+ - pip3 install requests 
 script:
  - python3 -m unittest test_main

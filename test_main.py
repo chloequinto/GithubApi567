@@ -32,7 +32,7 @@ Repo: DeepLearning Number of commits 6
 Repo: EncodeFlix Number of commits 23
 Repo: EVE_online Number of commits 83
 Repo: film_locations_gmap Number of commits 4
-Repo: GithubApi567 Number of commits 4
+Repo: GithubApi567 Number of commits 5
 Repo: guides Number of commits 100 or more
 Repo: ImgProc Number of commits 49
 Repo: InfoSys Number of commits 2
