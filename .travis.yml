@@ -4,4 +4,4 @@ python:
 
 # command to run tests
 script:
- - python -m unittest test_main
+ - python3 -m unittest test_main
